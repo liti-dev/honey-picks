@@ -10,10 +10,19 @@
 
 Honey Picks is a modern platform MVP developed within 12hrs to help users explore and share reviews across various categories.
 
-- Responsive UI built with React and Chakra UI
-- Firebase for authentication
+- Responsive UI
+- Authentication
 - User can write a review after logging in
-- Carbon badge to estimate digital footprint
+- User can sort reviews by category
+- Carbon badge placed in footer to estimate digital footprint
+
+## Tech choices
+
+- React and ChakraUI are used to quickly build UI components
+- React Router helps routing easier
+- json and local storage to fake db
+- Firebase to handle authentication using google accounts
+- Imagekit to store and optimise images via URL params
 
 ## Future improvements
 
