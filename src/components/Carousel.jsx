@@ -6,8 +6,8 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 const images = [
-  "https://ik.imagekit.io/akita311/header2.jpg?updatedAt=1743587748048",
-  "https://ik.imagekit.io/akita311/header1.jpg?updatedAt=1743585731913",
+  "https://ik.imagekit.io/akita311/header2.jpg?tr=w-700",
+  "https://ik.imagekit.io/akita311/header1.jpg?tr=w-700",
 ]
 
 export default function Carousel() {

@@ -1,4 +1,5 @@
 # Honey Picks
+
 ![honey picks live preview](https://ik.imagekit.io/akita311/honeypicks.jpg?tr=w-500)
 
 ## Demo
@@ -20,3 +21,4 @@ Honey Picks is a modern platform MVP developed within 12hrs to help users explor
 - [ ] User can upload images
 - [ ] User can comment
 - [ ] Carbon badge to be mindful of carbon foootprint and encourage optimisation
+- [ ] Further img optimisation
