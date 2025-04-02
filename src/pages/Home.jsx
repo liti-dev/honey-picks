@@ -70,10 +70,10 @@ export default function Home({ reviews, setReviews }) {
     }
   }
 
-  const deleteReview = (reviewId) => {
-    const updatedReviews = reviews.filter((review) => review.id !== reviewId)
-    setReviews(updatedReviews)
-  }
+  // const deleteReview = (reviewId) => {
+  //   const updatedReviews = reviews.filter((review) => review.id !== reviewId)
+  //   setReviews(updatedReviews)
+  // }
 
   return (
     <Box p={4} width="80%" mx="auto">
