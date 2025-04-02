@@ -1,4 +1,5 @@
 # Honey Picks
+![honey picks live preview](https://ik.imagekit.io/akita311/honeypicks.jpg?tr=w-500)
 
 ## Demo
 
@@ -11,6 +12,7 @@ Honey Picks is a modern platform MVP developed within 12hrs to help users explor
 - Responsive UI built with React and Chakra UI
 - Firebase for authentication
 - Deployed on Vercel
+- User can write a review after logging in
 
 ## Future improvements
 
