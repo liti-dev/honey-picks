@@ -21,3 +21,4 @@ Honey Picks is a modern platform MVP developed within 12hrs to help users explor
 - [ ] User can upload images
 - [ ] User can comment
 - [ ] Further img optimisation
+- [ ] Accessibiliy checks
