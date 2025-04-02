@@ -12,13 +12,12 @@ Honey Picks is a modern platform MVP developed within 12hrs to help users explor
 
 - Responsive UI built with React and Chakra UI
 - Firebase for authentication
-- Deployed on Vercel
 - User can write a review after logging in
+- Carbon badge to estimate digital footprint
 
 ## Future improvements
 
 - [ ] Real db using Supabase or MongoDB
 - [ ] User can upload images
 - [ ] User can comment
-- [ ] Carbon badge to be mindful of carbon foootprint and encourage optimisation
 - [ ] Further img optimisation

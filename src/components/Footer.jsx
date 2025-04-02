@@ -1,4 +1,5 @@
 import { Box, Text, Flex } from "@chakra-ui/react"
+import { WebsiteCarbonBadge } from "react-websitecarbon-badge"
 
 const Footer = () => {
   return (
@@ -10,6 +11,7 @@ const Footer = () => {
         <Text fontSize="xs" mt={2} textAlign="center">
           Built with ❤️ by Tia Nguyen
         </Text>
+        <WebsiteCarbonBadge url="https://honey-picks.vercel.app/" co2="0.10" percentage="90" />
       </Flex>
     </Box>
   )
