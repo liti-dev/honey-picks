@@ -1,12 +1,10 @@
-//
-import React from "react"
 import { useParams } from "react-router-dom"
 import PropTypes from "prop-types"
-import { Box, Heading, Image, Text, Stack, Badge, Divider, Button } from "@chakra-ui/react"
+import { Box, Heading, Image, Text, Stack, Badge, Divider } from "@chakra-ui/react"
 
 const ReviewDetails = ({ reviews }) => {
   const { id } = useParams()
-  const review = reviews.find((review) => review.id === Number(id)) // Ensure id is a number
+  const review = reviews.find((review) => review.id === Number(id))
 
   if (!review) {
     return (

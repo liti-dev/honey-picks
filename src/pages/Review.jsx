@@ -1,5 +1,3 @@
-// filepath: e:\Personal project\honey-pick\src\pages\Review.jsx
-import React from "react"
 import { useParams } from "react-router-dom"
 import PropTypes from "prop-types"
 import ReviewDetails from "../components/ReviewDetails"

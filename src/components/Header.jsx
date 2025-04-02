@@ -29,7 +29,7 @@ const Header = () => {
       <Flex align="center" justify="space-between" maxW="6xl" mx="auto">
         <Link to="/">
           <Flex align="center">
-            <Image src="/logo.png" alt="Honey Pick Logo" boxSize={10} mr={4} />
+            <Image src="/logo.svg" alt="Honey Pick Logo" boxSize={10} mr={4} />
             <Heading size="lg" color="black.500">
               Honey Picks
             </Heading>

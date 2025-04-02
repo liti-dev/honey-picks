@@ -1,5 +1,3 @@
-//
-
 import { useRef } from "react"
 import { Box, IconButton } from "@chakra-ui/react"
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa"
